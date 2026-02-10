@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Prashanth J N</h1>
 <h3 align="center">I am a Data Science student who enjoys coding, problem solving, and building real projects. I like learning by doing and regularly practice to improve my skills and playing with DATA.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prashanthjn&label=Profile%20views&color=0e75b6&style=flat" alt="Prashanthjn" /> </p>
+<img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif"
+       width="100%"
+       style="border-radius:50%; margin:20px 0;" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashanthjn" alt="prashanthjn" /></a> </p>
 
