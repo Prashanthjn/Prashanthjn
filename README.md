@@ -7,7 +7,7 @@
 
 <hr>
 -🔭 Working on: Python, DSA, Web projects, cloud Essentials  <br>
--🤝 Collaborating on: Beginner-friendly coding projects  
+-🤝 Collaborating on: Beginner-friendly coding projects  <br>
 -🆘 Help needed in: Code optimization & problem solving  <br>
 -🌱 Learning: JavaScript, Python & Data Science   <br>
 -💬 Ask me about: Python, Cloud Architecture<br>
