@@ -11,8 +11,6 @@
 ### Activity
  
 <div align="center">
-       
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanthjn&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=e05c5c&text_color=8b949e)
  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Prashanthjn&theme=dark&hide_border=true&background=0d1117&stroke=e05c5c&ring=e05c5c&fire=e05c5c&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)
  
@@ -58,8 +56,11 @@ From collecting data to uncovering patterns and building intelligent systems, I 
 ▸ Exploring Machine Learning
 ▸ Practicing DSA
 ```
+---
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prashanthjn&bg_color=0d1117&color=c9d1d9&line=e05c5c&point=e05c5c&area=true&hide_border=true)
 
+---
 
 ### Connect
 
