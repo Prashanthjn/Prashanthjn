@@ -1,13 +1,23 @@
 <div align="center">
 
-<!-- COVER -->
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=38&duration=3000&pause=1000&color=3D1A0A&background=F9EDD500&center=true&vCenter=true&width=600&height=80&lines=Prashanth+J+N" alt="Prashanth J N" />
+# Prashanth J N
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=15&duration=2000&pause=1000&color=7B3F1A&background=F9EDD500&center=true&vCenter=true&width=600&height=40&lines=DATA+SCIENCE+•+MACHINE+LEARNING+•+PROBLEM+SOLVING" alt="subtitle" />
+**Data Science • Machine Learning • Problem Solving**
 
 </div>
 
 ---
+ 
+### Activity
+ 
+<div align="center">
+ 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Prashanthjn&theme=dark&hide_border=true&background=0d1117&stroke=e05c5c&ring=e05c5c&fire=e05c5c&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)
+ 
+</div>
+
+---
+
 
 ### About
 
@@ -19,18 +29,20 @@ From collecting data to uncovering patterns and building intelligent systems, I 
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-6B2E0F?style=flat-square&logo=python&logoColor=F9EDD5)
-![Pandas](https://img.shields.io/badge/Pandas-8B4513?style=flat-square&logo=pandas&logoColor=F9EDD5)
-![NumPy](https://img.shields.io/badge/NumPy-A0522D?style=flat-square&logo=numpy&logoColor=F9EDD5)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-7B3F1A?style=flat-square&logo=scikitlearn&logoColor=F9EDD5)
-![Jupyter](https://img.shields.io/badge/Jupyter-C47B30?style=flat-square&logo=jupyter&logoColor=F9EDD5)
-![Power BI](https://img.shields.io/badge/Power%20BI-8B4513?style=flat-square&logo=powerbi&logoColor=F9EDD5)
-![Tableau](https://img.shields.io/badge/Tableau-6B2E0F?style=flat-square&logo=tableau&logoColor=F9EDD5)
-![AWS](https://img.shields.io/badge/AWS-4A1B0A?style=flat-square&logo=amazonwebservices&logoColor=F9EDD5)
-![GCP](https://img.shields.io/badge/GCP-A0522D?style=flat-square&logo=googlecloud&logoColor=F9EDD5)
-![Linux](https://img.shields.io/badge/Linux-C47B30?style=flat-square&logo=linux&logoColor=F9EDD5)
-![Git](https://img.shields.io/badge/Git-7B3F1A?style=flat-square&logo=git&logoColor=F9EDD5)
-![Figma](https://img.shields.io/badge/Figma-8B4513?style=flat-square&logo=figma&logoColor=F9EDD5)
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
 
@@ -44,28 +56,17 @@ From collecting data to uncovering patterns and building intelligent systems, I 
 ▸ Exploring Machine Learning
 ▸ Practicing DSA
 ```
-
 ---
 
-### Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Prashanthjn&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=1A0A00&title_color=F9EDD5&icon_color=C47B30&text_color=D4A574)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Prashanthjn&theme=dark&hide_border=true&background=1A0A00&stroke=C47B30&ring=8B4513&fire=C47B30&currStreakNum=F9EDD5&sideNums=F9EDD5&currStreakLabel=D4A574&sideLabels=D4A574&dates=D4A574)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prashanthjn&bg_color=1A0A00&color=D4A574&line=C47B30&point=F9EDD5&area=true&hide_border=true)
-
-</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prashanthjn&bg_color=0d1117&color=c9d1d9&line=e05c5c&point=e05c5c&area=true&hide_border=true)
 
 ---
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B4513?style=flat-square&logo=linkedin&logoColor=F9EDD5)](https://www.linkedin.com/in/prashanth-j-n-/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-6B2E0F?style=flat-square&logo=kaggle&logoColor=F9EDD5)](https://www.kaggle.com/prashanthjn25)
-[![Gmail](https://img.shields.io/badge/Gmail-A0522D?style=flat-square&logo=gmail&logoColor=F9EDD5)](mailto:prashi8711@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-j-n-/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/prashanthjn25)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prashi8711@gmail.com)
 
 ---
 
