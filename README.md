@@ -1,40 +1,71 @@
-<h1 align="center">Hi 👋, I'm Prashanth J N</h1>
-<h3 align="center">I am a Data Science student who enjoys coding, problem solving, and building real projects. I like learning by doing and regularly practice to improve my skills and playing with DATA.</h3>
-<hr>
-<img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif"
-       width="100%"
-       style="border-radius:50%; margin:20px 0;" />
+<div align="center">
 
-<hr>
--🔭 Working on: Python, DSA, Web projects, cloud Essentials  <br>
--🤝 Collaborating on: Beginner-friendly coding projects  <br>
--🆘 Help needed in: Code optimization & problem solving  <br>
--🌱 Learning: JavaScript, Python & Data Science   <br>
--💬 Ask me about: Python, Cloud Architecture<br>
--⚡ Fun fact: Powered by tea ☕, debugging at night 🌙, and catching up on sleep later 💤<br>
-<hr>
+# Prashanth J N
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40"/>
-</a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"/><br> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/> </a> 
+**Data Science • Machine Learning • Problem Solving**
+
+</div>
+
+---
+ 
+### Activity
+ 
+<div align="center">
+       
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prashanthjn&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=e05c5c&text_color=8b949e)
+ 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Prashanthjn&theme=dark&hide_border=true&background=0d1117&stroke=e05c5c&ring=e05c5c&fire=e05c5c&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e)
+ 
+</div>
+---
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashanthjn&show_icons=true&locale=en&layout=compact" alt="prashanthjn" /></p>
+### About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashanthjn&show_icons=true&locale=en" alt="prashanthjn" /></p>
+Computer Science (Data Science) student focused on extracting insights from data and building intelligent solutions using Python and modern data science tools. Interested in Machine Learning, Data Analytics, Statistical Modeling, and Data Engineering. I enjoy working with data to solve real-world problems while continuously strengthening my analytical thinking, problem-solving, and technical skills.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthjn&" alt="prashanthjn" /></p>
+---
+
+### Stack
+
+<div align="center">
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/prashath-j-n](https://www.linkedin.com/in/prashanth-j-n-/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashath-j-n" height="30" width="40" /></a>
-<a href="https://kaggle.com/prashanthjn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prashanthjn" height="30" width="40" /></a>
-<a href="prashi8711@gmail.com" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/022/613/021/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="prashanthjn" height="50" /></a>
-</p>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+### Current State
+
+```
+▸ Building projects
+▸ Learning Data Science
+▸ Exploring Machine Learning
+▸ Practicing DSA
+```
+
+
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashanth-j-n-/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/prashanthjn25)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prashi8711@gmail.com)
+
+---
+
+> *Learning something new every day and turning ideas into projects.*
