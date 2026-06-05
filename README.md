@@ -23,7 +23,7 @@
 
 ### About
 
-Computer Science (Data Science) student focused on extracting insights from data and building intelligent solutions using Python and modern data science tools. Interested in Machine Learning, Data Analytics, Statistical Modeling, and Data Engineering. I enjoy working with data to solve real-world problems while continuously strengthening my analytical thinking, problem-solving, and technical skills.
+From collecting data to uncovering patterns and building intelligent systems, I enjoy every step of the data journey. As a Data Science student, I'm constantly exploring new technologies, sharpening my analytical mindset, and creating projects that bridge data with real-world impact.
 
 ---
 
